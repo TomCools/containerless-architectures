@@ -1,0 +1,4 @@
+run from an IDE with com.kumuluz.ee.EeApplication as main class
+or
+maven package followed by:
+java -cp target/classes:target/dependency/* com.kumuluz.ee.EeApplication

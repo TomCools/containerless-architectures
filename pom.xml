@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>wildfly-swarm</module>
+        <module>kumuluzee</module>
     </modules>
     <packaging>pom</packaging>
     
