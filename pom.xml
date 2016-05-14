@@ -12,6 +12,7 @@
         <module>kumuluzee</module>
         <module>dropwizard</module>
         <module>spring-boot</module>
+        <module>vertx-web</module>
     </modules>
     <packaging>pom</packaging>
     
