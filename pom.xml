@@ -10,6 +10,7 @@
     <modules>
         <module>wildfly-swarm</module>
         <module>kumuluzee</module>
+        <module>dropwizard</module>
     </modules>
     <packaging>pom</packaging>
     
